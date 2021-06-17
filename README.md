@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Jigar Shah
+#### I am Second Year Engineering Student
+I am aspiring and ambitious developer currently exploring the realm of Web devlopment and App development and setting the stage to start Learn Machine Learning
 
-<!--
-**shahjigar556/shahjigar556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+<ul>
+  <li>⚛️ React JS</li>
+  <li>📱 Flutter</li>
+  <li>💻 HTML,CSS,JS ,PYHTON ,JAVA,C,C++</li>
+</ul>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahjigar556)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
