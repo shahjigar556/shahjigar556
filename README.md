@@ -7,6 +7,9 @@ Skills
   <li>⚛️ React JS</li>
   <li>📱 Flutter</li>
   <li>💻 HTML,CSS,JS ,PYHTON ,JAVA,C,C++</li>
+  <li> Databases: MySql , MongoDB</li>
+  <li>Backend Technologies: Node JS , Express JS</li>
+
 </ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahjigar556)](https://github.com/anuraghazra/github-readme-stats)
