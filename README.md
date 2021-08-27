@@ -6,7 +6,7 @@ Skills
 <ul>
   <li>⚛️ React JS , Redux </li>
   <li>📱 Flutter</li>
-  <li>💻 HTML ,CSS, JS , Bootstrap, GIT, PYHTON ,JAVA,C,C++</li>
+  <li>💻 HTML ,CSS, JS , Bootstrap, GIT, PYTHON ,JAVA,C,C++</li>
   <li> Databases: MySql , MongoDB</li>
   <li>Backend Technologies: Node JS , Express JS</li>
 
