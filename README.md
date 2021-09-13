@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jigar Shah
-#### I am Second Year Engineering Student
+#### I am Third Year Engineering Student
 I am aspiring and ambitious developer currently exploring the realm of Web development and App development and setting the stage to start Learn Machine Learning
 
 Skills
