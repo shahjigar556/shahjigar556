@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahjigar556&show_icons=true&theme=ayu-mirage&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahjigar556&theme=dark" />
 <img src="https://komarev.com/ghpvc/?username=shahjigar556"/>
-
 <!-- Actual text -->
 
 ## You can find me on:
