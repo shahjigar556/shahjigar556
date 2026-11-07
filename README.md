@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jigar Shah 👋</h1>
+<h1 align="center">Hi, I'm Jigar Shah</h1>
 
 <p align="center">
   Master's student in Computer and Information Science at the <b>University of Pennsylvania</b><br>
@@ -13,34 +13,34 @@
 
 ---
 
-## 🚀 About me
+## About me
 
-- 🎓 Pursuing an **M.S. in Computer and Information Science** at Penn (Aug 2026 – May 2028); B.Tech in Computer Engineering (GPA 3.98/4.0)
-- 🧑‍🏫 **Teaching Assistant** at Penn for Human-Computer Interaction
-- 💼 **3 years at J.P. Morgan** building FX trading infrastructure: binary protocols, order-state systems, latency optimization
-- 🤖 Building **AI agents and RAG systems** that sit inside real workflows, with guardrails and evaluation
-- ⚡ Wrote **CUDA** code for a GPU-accelerated recommendation system pilot
-- 🔎 Looking for **Summer 2027 software engineering internships**
+- Pursuing an **M.S. in Computer and Information Science** at Penn (Aug 2026 – May 2028); B.Tech in Computer Engineering (GPA 3.98/4.0)
+- **Teaching Assistant** at Penn for Human-Computer Interaction
+- **3 years at J.P. Morgan** building FX trading infrastructure: binary protocols, order-state systems, latency optimization
+- Building **AI agents and RAG systems** that sit inside real workflows, with guardrails and evaluation
+- Wrote **CUDA** code for a GPU-accelerated recommendation system pilot
+- Looking for **Summer 2027 software engineering internships**
 
-## 💼 Experience highlights
+## Experience highlights
 
 | Role | Highlights |
 |------|------------|
 | **Software Development Engineer**, J.P. Morgan (2023 – 2026) | Raised order fill ratio **40% → 70%** and cut latency to **4 ms** by migrating exchange messaging from FIX/Protobuf to Simple Binary Encoding · Cut boot-up time by **30%** with a custom Java byte-stream decoder · Built an AI compliance agent adopted by **15+ teams** · Compressed a legacy decommission from **6 months to 1** with Copilot and Claude Code agents (**$1M/yr** saved) · Built **Adaptive 3.0**, enabling **$25B+** in FX volume |
 | **Software Engineer Intern**, Codeyoung (2022 – 2023) | Improved student retention by **20%** with a cross-platform portal (React, Node.js, Flutter, AWS) · Built a hybrid recommendation system · Saved ~**$12K/yr** with an earliest-deadline-first Zoom license scheduler · Built internal ops tooling that raised productivity by **50%** |
 
-## 🛠️ Featured projects
+## Featured projects
 
-### 🧠 [Answerable](https://github.com/orgs/Answerable-the-QnA/repositories)
+### [Answerable](https://github.com/orgs/Answerable-the-QnA/repositories)
 A question-answering system for multi-document PDFs, built from a real pain point during a literature survey. Multi-sieve **Retriever → Reader → Reranker** pipeline (TF-IDF + Hugging Face BERT) reaching **0.710 F1** and **0.849 MRR** on SQuAD-Open, with an async distributed job queue for fault-tolerant parallel inference.
 
-### 💬 LedgerLens
+### LedgerLens
 An agentic AI financial co-pilot (Claude + Azure GPT-4.1) driven by a YAML skill playbook with safety guardrails. Real-time streaming via Server-Sent Events, a FastAPI inference service, a parallel Spring Boot / PostgreSQL backend, and OpenTelemetry tracing. Presented at a global AI hackathon in Chicago.
 
-### 🔐 [Secured RGB Image Encryption](https://ieeexplore.ieee.org/document/11294465/authors#authors)
+### [Secured RGB Image Encryption](https://ieeexplore.ieee.org/document/11294465/authors#authors)
 A modified Playfair cipher for image encryption with near-maximum entropy (**7.998**), validated with avalanche, histogram and correlation analysis. **Published at IEEE.**
 
-## 🧰 Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -67,7 +67,7 @@ A modified Playfair cipher for image encryption with near-maximum entropy (**7.9
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📫 Let's connect
+## Let's connect
 
 I'm always happy to talk about low-latency systems, AI agents, retrieval, or teaching engineering.
 Reach me on [LinkedIn](https://www.linkedin.com/in/jigarshah19/) or at **jigars@engineering.upenn.edu**.
