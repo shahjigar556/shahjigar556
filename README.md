@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jigarshah19/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/shahjigar556/shahjigar556/blob/master/Jigar_Shah_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-DA2C38?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
   <a href="https://leetcode.com/u/Jigarshah"><img src="https://img.shields.io/badge/LeetCode-Jigarshah-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="mailto:jigars@engineering.upenn.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -67,13 +66,6 @@ A modified Playfair cipher for image encryption with near-maximum entropy (**7.9
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahjigar556&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjigar556&layout=compact&hide_border=true" alt="Top languages">
-</p>
 
 ## 📫 Let's connect
 
